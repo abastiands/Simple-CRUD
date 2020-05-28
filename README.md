@@ -23,7 +23,7 @@ XAMPP
 
 6. Selanjutnya ketik di browser : localhost/warung_makan/admin
 
-5. Atau anda dapat melihat contoh website pada file Hasil Preview.jpg 
+7. Atau anda dapat melihat contoh website pada file Hasil Preview.jpg 
 
 # Bahasa Pemrograman
 Menggunakan bahasa pemrograman HTML
